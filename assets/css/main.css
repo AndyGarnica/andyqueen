@@ -1,3 +1,8 @@
+body{
+	background-color:#FAE9F7;
+	font-family: monospace;
+	font-size: 200%;
+}
 h1{
 	color: blue;
 }
